@@ -1,6 +1,6 @@
 /**
  * @author Alexander Lopez
- * @brief Laboratorio 1
+ * @brief Corto 1 ejercicio 1
  * @date 07/03/2024
 */
 #include <iostream>
